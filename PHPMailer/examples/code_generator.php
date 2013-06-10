@@ -1,7 +1,6 @@
 <?php
 /*
-* revised, updated and corrected 27/02/2013
-* by matt.sturdy@gmail.com
+* @author tri.van<vanminhtri88@gmail.com>
 */
 require '../class.phpmailer.php';
 
